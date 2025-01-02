@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Coins } from 'lucide-react';
 import { fetchPrices } from '../utils/priceService';
 import Whitepaper from './Whitepaper';
@@ -120,8 +120,7 @@ export default function BOOBWebsite() {
               <h2 className="text-xl mb-4">THE SILVER THESIS</h2>
               <div className="space-y-4 text-gray-400">
                 <p>
-                  Throughout history, silver has maintained an 87:1 ratio with gold. In the digital realm,
-                  BOOB aims to achieve this natural ratio with BOB, the digital gold of Internet Computer.
+                  Throughout history, silver has maintained an 87:1 ratio with gold. In the digital realm, BOOB aims to achieve this natural ratio with BOB, the digital gold of Internet Computer.
                 </p>
                 <p>
                   Current market dynamics show significant market cap undervaluation at {currentRatio}:1. A {requiredGrowth}x growth
