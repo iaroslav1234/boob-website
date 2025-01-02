@@ -19,7 +19,7 @@ export default function Whitepaper() {
               <h4 className="text-white mb-2">The Gold-Silver Relationship:</h4>
               <ul className="list-disc pl-5 space-y-1">
                 <li>Throughout financial history, gold and silver have maintained a natural market relationship</li>
-                <li>Modern markets consistently gravitate toward an 87:1 ratio</li>
+                <li>Modern markets consistently gravitate toward an 88:1 ratio</li>
                 <li>Professional traders and market makers actively maintain this equilibrium</li>
                 <li>Major financial institutions respect and trade this ratio</li>
               </ul>
@@ -68,11 +68,11 @@ export default function Whitepaper() {
         </section>
 
         <section>
-          <h3 className="text-white text-lg mb-2">🔍 UNDERSTANDING THE 87:1 RATIO</h3>
+          <h3 className="text-white text-lg mb-2">🔍 UNDERSTANDING THE 88:1 RATIO</h3>
           <div className="space-y-4">
             <div>
-              <h4 className="text-white mb-2">What Does 87:1 Mean?</h4>
-              <p>In modern markets, gold maintains an average value relationship with silver where one unit of gold is worth approximately 87 units of silver. This natural equilibrium has persisted throughout market cycles, providing a reliable framework for value discovery.</p>
+              <h4 className="text-white mb-2">What Does 88:1 Mean?</h4>
+              <p>In modern markets, gold maintains an average value relationship with silver where one unit of gold is worth approximately 88 units of silver. This natural equilibrium has persisted throughout market cycles, providing a reliable framework for value discovery.</p>
             </div>
 
             <div>
@@ -91,15 +91,15 @@ export default function Whitepaper() {
                 <li>BOB represents digital gold in the ICP ecosystem</li>
                 <li>BOOB represents digital silver</li>
                 <li>The ratio between them will naturally fluctuate</li>
-                <li>Market forces will consistently push toward 87:1 equilibrium</li>
+                <li>Market forces will consistently push toward 88:1 equilibrium</li>
               </ul>
             </div>
 
             <div>
               <h4 className="text-white mb-2">Natural Market Forces:</h4>
               <ul className="list-disc pl-5 space-y-1">
-                <li>When ratio exceeds 87:1, BOOB is undervalued</li>
-                <li>When ratio falls below 87:1, BOOB is overvalued</li>
+                <li>When ratio exceeds 88:1, BOOB is undervalued</li>
+                <li>When ratio falls below 88:1, BOOB is overvalued</li>
                 <li>Traders and arbitrageurs capitalize on these deviations</li>
                 <li>Their actions help restore natural equilibrium</li>
               </ul>
@@ -146,7 +146,7 @@ export default function Whitepaper() {
               <p>Our website maintains a real-time ratio tracker that:</p>
               <ul className="list-disc pl-5 space-y-1">
                 <li>Displays current BOB/BOOB ratio</li>
-                <li>Shows target ratio (87:1)</li>
+                <li>Shows target ratio (88:1)</li>
                 <li>Calculates deviation from equilibrium</li>
                 <li>Updates as market conditions change</li>
               </ul>
@@ -199,15 +199,15 @@ export default function Whitepaper() {
                   <p className="mb-1">Monitor Ratio:</p>
                   <ul className="list-disc pl-5 space-y-1">
                     <li>Track current BOB/BOOB ratio</li>
-                    <li>Compare to 87:1 target</li>
+                    <li>Compare to 88:1 target</li>
                     <li>Identify significant deviations</li>
                   </ul>
                 </div>
                 <div>
                   <p className="mb-1">Arbitrage Opportunities:</p>
                   <ul className="list-disc pl-5 space-y-1">
-                    <li>Buy BOOB when ratio exceeds 87:1</li>
-                    <li>Sell BOOB when ratio falls below 87:1</li>
+                    <li>Buy BOOB when ratio exceeds 88:1</li>
+                    <li>Sell BOOB when ratio falls below 88:1</li>
                     <li>Profit from market normalization</li>
                   </ul>
                 </div>
@@ -263,7 +263,7 @@ export default function Whitepaper() {
         <section>
           <h3 className="text-white text-lg mb-2">🔮 CONCLUSION</h3>
           <p>
-            The BOB-BOOB relationship recreates one of the most enduring financial dynamics in history - the gold-silver ratio. Through market forces, arbitrage, and natural trading activity, this relationship will continuously seek its natural 87:1 equilibrium, creating opportunities for market participants while maintaining the historical precedent of precious metals in the digital age.
+            The BOB-BOOB relationship recreates one of the most enduring financial dynamics in history - the gold-silver ratio. Through market forces, arbitrage, and natural trading activity, this relationship will continuously seek its natural 88:1 equilibrium, creating opportunities for market participants while maintaining the historical precedent of precious metals in the digital age.
           </p>
         </section>
 

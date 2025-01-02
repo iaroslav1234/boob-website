@@ -28,7 +28,7 @@ export default function RatioCalculator() {
   }, []);
 
   const calculateMetrics = () => {
-    const targetRatio = 87;
+    const targetRatio = 88;
     const currentRatio = loading ? '0' : (parseFloat(priceData.bob.marketCap) / parseFloat(priceData.boob.marketCap)).toFixed(0);
     const growthMultiplier = loading || parseFloat(currentRatio) === 0 ? '0' : (parseFloat(currentRatio) / targetRatio).toFixed(1);
 
