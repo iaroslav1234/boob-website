@@ -164,28 +164,28 @@ export default function BOOBWebsite() {
 
         {/* Navigation Box */}
         <div className="border-x border-b border-gray-800">
-          <div className="flex items-center px-3 py-1">
+          <div className="flex flex-wrap items-center justify-between px-3 py-2 text-sm sm:text-base sm:justify-start">
             <button 
               onClick={() => setCurrentPage('home')} 
-              className={currentPage === 'home' ? "underline mr-4" : "hover:underline mr-4"}
+              className={`${currentPage === 'home' ? "underline" : "hover:underline"} px-2 py-1 sm:mr-4`}
             >
               Home
             </button>
             <button 
               onClick={() => setCurrentPage('whitepaper')} 
-              className={currentPage === 'whitepaper' ? "underline mr-4" : "hover:underline mr-4"}
+              className={`${currentPage === 'whitepaper' ? "underline" : "hover:underline"} px-2 py-1 sm:mr-4`}
             >
               Whitepaper
             </button>
             <button 
               onClick={() => setCurrentPage('calculator')} 
-              className={currentPage === 'calculator' ? "underline mr-4" : "hover:underline mr-4"}
+              className={`${currentPage === 'calculator' ? "underline" : "hover:underline"} px-2 py-1 sm:mr-4 whitespace-nowrap`}
             >
-              Ratio Calculator
+              Ratio Calc
             </button>
             <button 
               onClick={() => setCurrentPage('buy')} 
-              className={currentPage === 'buy' ? "underline" : "hover:underline"}
+              className={`${currentPage === 'buy' ? "underline" : "hover:underline"} px-2 py-1 whitespace-nowrap`}
             >
               How to Buy
             </button>
