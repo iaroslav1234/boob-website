@@ -117,18 +117,40 @@ export default function BOOBWebsite() {
 
             {/* Silver Thesis */}
             <div className="mt-8">
-              <h2 className="text-xl mb-4">THE SILVER THESIS</h2>
+              <h2 className="text-xl mb-4">THE SILVER THESIS - WHY 88:1?</h2>
               <div className="space-y-4 text-gray-400">
                 <p>
-                  Throughout history, silver has maintained an 88:1 ratio with gold. In the digital realm, BOOB aims to achieve this natural ratio with BOB, the digital gold of Internet Computer.
+                  Throughout history, gold and silver have maintained varying ratios - from 12:1 in the Roman Empire to modern markets averaging around 87:1. In the digital realm, BOOB aims to achieve a special ratio with BOB, the digital gold of Internet Computer:
                 </p>
+                
+                <div className="my-4">
+                  <div className="text-lg text-white">Target Ratio: 88:1 ⚖️</div>
+                </div>
+
+                <div>
+                  <div className="text-lg text-white mb-2">The Numerical DNA 🧬</div>
+                  <ul className="space-y-2">
+                    <li>BOB = 808 (digital gold)</li>
+                    <li>BOOB = 8008 (digital silver)</li>
+                    <li>Dfinity = ∞ (infinity/sideways 8)</li>
+                  </ul>
+                </div>
+
                 <p>
-                  Current market dynamics show significant market cap undervaluation at {currentRatio}:1. A {requiredGrowth}x growth
-                  is required to reach the historical gold-silver ratio, suggesting strong upside potential.
+                  This perfect digital symmetry in the tokens' numerical DNA creates the natural 88:1 equilibrium target.
                 </p>
+
+                <div>
+                  <div className="text-lg text-white mb-2">Current Status:</div>
+                  <ul className="space-y-2">
+                    <li>Market cap ratio: {currentRatio}:1</li>
+                    <li>Required growth: {requiredGrowth}x</li>
+                    <li>Target: 88:1</li>
+                  </ul>
+                </div>
+
                 <p>
-                  As the first token launched on the BOB ecosystem, BOOB represents digital silver
-                  to BOB's established position as digital gold.
+                  Just as precious metals have maintained their relationship through centuries, BOOB represents digital silver to BOB's established position as digital gold, with the 88:1 ratio serving as the natural balance point for this new digital era.
                 </p>
               </div>
             </div>
