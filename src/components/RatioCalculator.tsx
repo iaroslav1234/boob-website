@@ -113,9 +113,21 @@ export default function RatioCalculator() {
 
           <div className="text-sm text-gray-400">
             <p>
-              *Calculations are based on the historical gold-to-silver ratio of 87:1
+              *Calculations are based on the numerical DNA of BOB and BOOB
             </p>
           </div>
+        </div>
+      </div>
+
+      <div className="mt-6 p-4 bg-gray-800 rounded">
+        <h3 className="text-lg text-white mb-3">The Numerical DNA 🧬</h3>
+        <div className="space-y-3 text-gray-400">
+          <ul className="space-y-2">
+            <li>BOB = 808 (digital gold)</li>
+            <li>BOOB = 8008 (digital silver)</li>
+            <li>Dfinity = ∞ (infinity/sideways 8)</li>
+          </ul>
+          <p>This perfect digital symmetry in the tokens' numerical DNA creates the natural 88:1 equilibrium target.</p>
         </div>
       </div>
     </div>
