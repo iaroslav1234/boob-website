@@ -1,6 +1,6 @@
 export default function Whitepaper() {
   return (
-    <div className="max-w-4xl mx-auto space-y-8 text-gray-300">
+    <div className="space-y-8 text-gray-300">
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-white mb-4">📑 BOOB WHITEPAPER</h1>
         <h2 className="text-2xl text-gray-400">The Digital Silver Standard on Internet Computer</h2>
