@@ -1,9 +1,9 @@
 import { useState, useEffect } from 'react';
-import { Coins } from 'lucide-react';
 import { fetchPrices } from '../utils/priceService';
 import Whitepaper from './Whitepaper';
 import RatioCalculator from './RatioCalculator';
 import HowToBuy from './HowToBuy';
+import boobLogo from '../assets/boob-logo.png';
 
 export default function BOOBWebsite() {
   const [currentPage, setCurrentPage] = useState('home');
@@ -177,7 +177,7 @@ export default function BOOBWebsite() {
               <div className="border-l border-gray-800 pl-3">
                 <div className="text-sm leading-tight">Logo</div>
                 <div className="w-7 h-7 bg-black flex items-center justify-center">
-                  <Coins className="w-6 h-6" />
+                  <img src={boobLogo} alt="BOOB Logo" className="w-6 h-6" />
                 </div>
               </div>
             </div>
